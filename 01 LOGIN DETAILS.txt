@@ -1,0 +1,16 @@
+*Database Name: attendancemsystem**
+
+########## Developed by Zacks(0_Bug5) ############
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Teacher Login Details**
+
+Email   : Choose any gmail from the lecturer of your choice from Database.
+Password: pass123
+
+Note: Password is default for all lecturers.
